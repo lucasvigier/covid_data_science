@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
 
@@ -94,3 +93,4 @@ recovered_graph.plot()
 plt.title("All countries : recovered", size=12)
 plt.show()
 print("######################################################################################")
+print()
